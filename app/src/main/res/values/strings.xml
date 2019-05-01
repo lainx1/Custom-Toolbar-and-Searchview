@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Custom SearchView</string>
+
+    <!-- MainActivity -->
+    <string name="button_go_to_custom_search">Ir a la búsqueda</string>
+    <string name="action_search">Buscar</string>
+</resources>
